@@ -1,0 +1,19 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-8.jpg",
+      "title": "DzabeMK",
+      "slug": "mobile-app-dzabe"
+    },
+    {
+      "image": "/images/work/work-img-7.jpg",
+      "title": "Tech Shop",
+      "slug": "tech-shop-ecommerce"
+    },
+    {
+      "image": "/images/work/work-img-9.png",
+      "title": "Sweet Delivery App",
+      "slug": "sweet-delivery-app"
+    }
+  ]
+}

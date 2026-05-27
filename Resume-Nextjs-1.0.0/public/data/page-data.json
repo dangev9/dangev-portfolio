@@ -1,0 +1,98 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "martindangev99@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:martindangev99@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+389 71 294 027",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+38971294027"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/martin-dangev-b6181a20a/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://www.facebook.com/martin.dangev.73"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Rade Jovchevski-Korchagin",
+        "description": "High School 2014-2018."
+      },
+      {
+        "title": "Faculty of Computer Science and Engineering",
+        "description": "Bachelor of Science in Computer Science and Engineering 2023"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "icon": "/images/home/education-skill/angularjs.jpg",
+        "rating": 4.5
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "/images/home/education-skill/springboot2.png",
+        "rating":4.5
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/home/education-skill/typescript.png",
+        "rating": 4.5
+      },
+      {
+        "name": "Flutter(Dart)",
+        "icon": "/images/home/education-skill/flutter.jpg",
+        "rating": 3
+      },
+      {
+        "name": "HTML, CSS, JS & Bootstrap",
+        "icon": "/images/home/education-skill/html.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Next JS",
+        "icon": "/images/home/education-skill/nextjs.png",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Facebook",
+      "href": "https://www.facebook.com/martin.dangev.73"
+      },
+      {
+        "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/martin-dangev-b6181a20a/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "martindangev99@gmail.com",
+        "link": "mailto:martindangev99@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+389 71 294 027",
+        "link": "tel:+38971294027"
+      }
+    ]
+  }
+}
